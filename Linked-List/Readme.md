@@ -2,7 +2,7 @@ Listas Encadeadas ou Lista Ligada (Linked List ).
 
 Estrutura de dados linear de objetos do mesmo tipo que sao armazenados de forma não contigua, esses elementos (nós) são interligados por meio de ponteiros que referenciam o proximo nó da lista.
 
-(https://media.geeksforgeeks.org/wp-content/uploads/20220712180755/Doublylinkedlist.png)
+![Linked list](https://media.geeksforgeeks.org/wp-content/uploads/20220712180755/Doublylinkedlist.png)
 
 Podem ter dois tipos de listas:
 
