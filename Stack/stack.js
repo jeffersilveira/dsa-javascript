@@ -56,3 +56,13 @@ console.log(stack);     //  Excluido valor '30' e retornado no log
 console.log(stack.size());      //  Retorna numero de elementos na Stack
 
 console.log(stack.isEmpty());        //  Retorna um boolean se a Stack está vazia
+
+/* OUTPUT:
+Stack { items: [ 1, 2 ] }
+Stack { items: [] }
+Stack { items: [ 10, 20, 30 ] }
+30
+Stack { items: [ 10, 20 ] }
+2
+false
+*/
