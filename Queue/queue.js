@@ -46,3 +46,11 @@ console.log(queue.peek());
 console.log(queue.size());
 
 console.log(queue.isEmpty());
+
+/* OUTPUT:
+Queue { items: [ 10, 20, 30 ] }
+Queue { items: [ 20, 30 ] }
+20
+2
+false
+*/
