@@ -14,3 +14,5 @@ Algoritmo:
 - 6 - Repita passo 2.
 
 [cod].
+
+[Ordenaçao por seleção (Selection Sort)](https://github.com/jeffersilveira/dsa-javascript/blob/main/Selection-sort/Readme.md).

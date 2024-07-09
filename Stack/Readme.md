@@ -13,3 +13,5 @@ As operações da Pilha(Array Methods) são chamadas de:
 - Aplicação:
     - Caso de uso mais comum da pilha é call stack ou pilha de chamada de um programa, onde a ordem de execução dos processos são chamados pelo programa em forma de pilha.
     - Outro é o recurso de Avançar e Voltar que os endereços visitados se empilham, ao chamar a função ‘voltar’ o ultimo endereço visitado que esta no topo é o primeiro a retornar.
+
+    [Fila (Queue)](https://github.com/jeffersilveira/dsa-javascript/blob/main/Queue/Readme.md).

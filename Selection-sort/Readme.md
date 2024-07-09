@@ -2,7 +2,7 @@ Ordenação por Seleção (Selection Sort).
 
 Selection sort é um algoritmo que se baseia em passar o menor valor do vetor para a primeira posição (dependendo do tipo da ordenação), depois o segundo menor valor para segunda posição e assim por diante. 
 
-Formado por dois laços For, um externo que percorre o Index que inicia por 0 e itera em +1 até n -1 elementos e um mais inteiro que percorre o Vetor a partir do Index externo +1 até o  final desse vetor.
+Formado por dois laços For, um externo que percorre o Index que inicia por 0 e itera em +1 até n -1 elementos e um laço interno que percorre o Vetor a partir do Index externo +1 até o final desse vetor.
 
 ![](https://www.italoinfo.com.br/algoritmos/selectionsort/img/selectionsort.png)
 
@@ -10,3 +10,5 @@ Formado por dois laços For, um externo que percorre o Index que inicia por 0 e 
 
 - Aplicação:    
     Uma das formas de implementar esse algoritmo seria por exemplo em um sistema de classificação de favoritos ou por ordem alfabética. Onde os elementos de uma lista são passados para uma segunda lista, um elemento por vez e ordenados de acordo com o critério desejado. A Ordenação por seleção não é tão  rápida, seu tempo de execução é de O(n²), visto que esse algoritmo é executado nos dois laços, interno e externo.
+
+[Inicio](https://github.com/jeffersilveira/dsa-javascript/blob/main/README.md).

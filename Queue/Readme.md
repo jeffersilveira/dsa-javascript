@@ -9,3 +9,5 @@ Nessa estrutura todos os processos tendem a ser atendidos, evitando o fenomeno S
 Aplicação:
 - Sistemas que basicamente utilizam fila de espera, sendo colocados na fila e retirados (ou processados) pela ordem de chegada.
 - Sistema de bilheteria na aquisição de ingresso.
+
+[Busca binária (Binary search)](https://github.com/jeffersilveira/dsa-javascript/blob/main/Binary-search/Readme.md).

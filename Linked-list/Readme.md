@@ -20,3 +20,5 @@ Podem ter dois tipos de listas:
 - Utilizaçao:
     - Acessar elementos da lista de forma aleatória.
     - Operar com inserções e deleções de elementos.
+
+[Pilha (Stack)](https://github.com/jeffersilveira/dsa-javascript/blob/main/Stack/Readme.md).
